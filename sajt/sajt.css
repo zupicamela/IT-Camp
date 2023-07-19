@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+}
+.aaa img{
+    min-height: 350px;
+    width: 100%;
+    margin: 0px;
+}
+.box1 p1{
+    flex-direction: row;
+    width: 100%;
+    color:rgb(112, 14, 14);
+    font-size: 140px;
+    text-align: start;
+    margin-left: 150px;
+    margin-bottom: 120px;
+    padding: 5px;
+    font-family: serif ;
+}
+.box1 p2{
+    flex-direction: row;
+    width: 100%;
+    color:rgb(112, 14, 14);
+    font-size: 140px;
+    text-align: start;
+    margin-left: 80px;
+    margin-top: 50px;
+    padding: 5px;
+    font-family: serif ;
+}
+.box1 p3{
+    flex-direction: row;
+    width: 100%;
+    color:rgb(112, 14, 14);
+    font-size: 140px;
+    text-align: start;
+    margin-left: 0px;
+    margin-bottom: 120px;
+    padding: 5px;
+    font-family: serif ;
+}
